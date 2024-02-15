@@ -3,5 +3,6 @@
 ## Projenin Amacı 
 **Kendimi Geliştirmek **
 
-<img src="https://github.com/ByStag/TrendyolDesign/app/src/main/res/drawable/uygulamafoto.png" width="250">
-   
+
+![uygulamafoto](https://github.com/ByStag/Trendyol-Desing/assets/103425395/d49e4e37-4309-4f84-ab7d-d8861d6cb2f5){:height="300px" width="300px"}
+
